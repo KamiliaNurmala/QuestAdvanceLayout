@@ -18,5 +18,13 @@ import androidx.compose.ui.res.painterResource
 
 @Composable
 fun ActivitasPertama(modifier: Modifier = Modifier) {
+    Column(
+        modifier = modifier
+            .padding(top = 100.dp)
+            .fillMaxSize(),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+
+    }
 
 }
