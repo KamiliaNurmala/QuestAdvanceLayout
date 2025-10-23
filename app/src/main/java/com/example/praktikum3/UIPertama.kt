@@ -15,3 +15,8 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.res.painterResource
+
+@Composable
+fun ActivitasPertama(modifier: Modifier = Modifier) {
+
+}
