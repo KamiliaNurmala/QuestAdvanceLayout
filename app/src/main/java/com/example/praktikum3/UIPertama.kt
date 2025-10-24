@@ -118,6 +118,9 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 containerColor = Color.Red
             )
         ) {
+            Row {
+                // Image, Spacer, Column akan ditambahkan di commit selanjutnya
+            }
         }
         Box(
             modifier = Modifier
